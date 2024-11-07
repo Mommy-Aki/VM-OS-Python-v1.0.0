@@ -1,5 +1,7 @@
 # This OS runs on python ONLY and contains limited Features
 
+v1.0.0
+
 # DISCLAIMER
 
 This OS is Custom and will not be based off any specific OS, However, depending on what OS you use may change the look of windows opened in the VM
