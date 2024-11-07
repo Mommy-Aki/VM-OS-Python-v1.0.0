@@ -22,5 +22,5 @@ Files can be Added, removed and (possibly) edited on the OS
 
 -- Saving --
 
-All filoes will Automaticaloly Save and will appear when the user re-launches the OS (unless data had been modified manually)
+All files will Automaticaloly Save and will appear when the user re-launches the OS (unless data had been modified manually)
 The OS may break if the wrong files are deleted from the system.
