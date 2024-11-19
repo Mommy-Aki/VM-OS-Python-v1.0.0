@@ -23,5 +23,8 @@ with open("ROM\Startup\Startup.py","r") as ROMStarter:
     run(["python","ROM\Startup\Startup.py"])
 
 print("Closing VM...")
+with open("VirtualHardDrive\CurrentAccount\LoggedInUser.txt","w") as LoggedInUser:
+    LoggedInUser.truncate(0)
+    LoggedInUser.write(" ")
 sleep(.3)
 print("Program Ended!")
