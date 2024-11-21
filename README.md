@@ -1,28 +1,30 @@
-# This OS runs on python ONLY and contains limited Features
+# V1.0.0 ChangeLog
 
-v1.0.0
+- Features:
 
-# DISCLAIMER
-
-This OS is Custom and will not be based off any specific OS, However, depending on what OS you use may change the look of windows opened in the VM
-
-Any data deleted manualy has to be with either prior knowledge with how it will affect the data, or by the OS itself, do NOT attempt to remove data by itself
-
-There will be only 1 User on the OS, unless i add an Update to include multiple Users
+* User Creation / Login {Currently saves after creation}
+* StartUp Sequence
+* 
 
 
-# Internet
+# About The OS
 
-There is NO internet Acess due to complications with intenret services, however this will be worked on as this OS improves
-Warning that there will be a loimited access if so, especially with complications
+Welcome to {PyOS}! An idie project made by Aki which includes an operating system, and a few programs to start
+This was made with Python, Hopes and Dreams (yes it was annoying to code this) 
 
-# {File Management}
+This OS runs as a SaaS (Software as a Service) and will contain mainly programs seperating a booter (which is honestly terrible), login page, and a main Desktop.
 
-Files can be Added, removed and (possibly) edited on the OS
+The significance of the project is just as a passion project testing my coding skills in python and helping myself with making more interactive and unique software powered by python.
+
+Please do NOT Add any programs to th Programs folder, especially as it will be hard to know what programs are what while it is running in the OS.
+
+# LICENCE
+
+By downloading This Program, yu agree that:
+
+- This is the Interlectual Proprety of Aki
+- NO edits should be made regardless of bugs
+- All bugs MUST be reported to Aki
+- Each UCLient will have different Accounts  
 
 
-
--- Saving --
-
-All files will Automaticaloly Save and will appear when the user re-launches the OS (unless data had been modified manually)
-The OS may break if the wrong files are deleted from the system.
